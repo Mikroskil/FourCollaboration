@@ -2,3 +2,11 @@ body{
 	background-image: url(../images/bg.jpg);
 	background-repeat: repeat-x;
 }
+
+h2{
+	font-family: "Hobo Std";
+	color: #5c8b93;
+}
+li{
+	font-family: "Comic Sans MS";
+}
