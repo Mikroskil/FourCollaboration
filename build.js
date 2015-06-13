@@ -267,7 +267,7 @@ var _ = self.Prism = {
 
 				pattern = pattern.pattern || pattern;
 
-				for (var i=0; i<strarr.length; i++) { // Don’t cache length as it changes during the loop
+				for (var i=0; i<strarr.length; i++) { // Donâ€™t cache length as it changes during the loop
 
 					var str = strarr[i];
 
@@ -638,7 +638,7 @@ if (Prism.languages.markup) {
 
 			pre.textContent = '';
 
-			code.textContent = 'Loading…';
+			code.textContent = 'Loadingâ€¦';
 
 			pre.appendChild(code);
 
@@ -1164,6 +1164,8 @@ bespoke.from('article', [
   progress(),
   forms()
 ]);
+
+bespoke {}
 
 // Prism syntax highlighting
 // This is actually loaded from "bower_components" thanks to
