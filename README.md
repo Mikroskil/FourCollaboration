@@ -1,4 +1,4 @@
-#Bagi Semua Anggota TIM Tolong COPY dan Replace build.js ke folde dist/build/build.js
+#Bagi Semua Anggota TIM Tolong COPY dan Replace build.js ke folde dist/build/build.js!!!!
 
 #Judul Persentasi
  >iOS vs Android
