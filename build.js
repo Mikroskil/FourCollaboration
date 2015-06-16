@@ -1166,6 +1166,7 @@ bespoke.from('article', [
 ]);
 
 bespoke {}
+bespoke 2{}
 
 // Prism syntax highlighting
 // This is actually loaded from "bower_components" thanks to
